@@ -26,7 +26,7 @@ Nom du produit,Quantité,Prix Unitaire (€),Catégorie
 Toyota Corolla,10,25000,Berline
 Ford Fiesta,8,20000,Compacte
 Honda Civic,15,27000,Berline
-
+```
 
 ### Notes importantes
 - Assurez-vous que vos fichiers CSV utilisent l'encodage UTF-8.
