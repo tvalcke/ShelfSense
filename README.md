@@ -40,3 +40,8 @@ Aucune installation supplémentaire n'est requise. Le fichier exécutable contie
 
 Merci d'utiliser ShelfSense !
 
+
+## Remarque sur l'utilisation d'IA
+
+Le code et les contenus des wikis ont été partiellement générés à l'aide d'intelligences artificielles, conformément aux consignes de travail fournies. L'utilisation de l'IA a été utilisée pour faciliter le développement tout en respectant les objectifs du projet.
+
