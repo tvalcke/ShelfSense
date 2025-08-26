@@ -1,3 +1,6 @@
+-- Exercice pour le cours de Dev2 --
+
+
 # ShelfSense
 
 ShelfSense est une application permettant de gérer, manipuler et visualiser des fichiers CSV directement depuis votre ordinateur.
