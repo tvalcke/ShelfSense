@@ -1,4 +1,4 @@
--- Exercice pour le cours de Dev2 --
+-- Exercice pour le cours de Dev2 -- Le but étant ici de coder avec des IA pour voir les cotés positifs et négatifs
 
 
 # ShelfSense
